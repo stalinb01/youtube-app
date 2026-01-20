@@ -1,0 +1,15 @@
+CEDULA| USBID| CORREO| APELLIDOS| NOMBRES|DEPARTAMENTO| TLFPERSONAL |EMAILPERSONAL|TIPO
+13666844|evelicerobles|evelicerobles@usb.ve|Robles Morillo|Evelice Yanitza|Departamento Planta Fisica|04244098354|fernanjo902@gmail.com|empleados
+28312667|zeusgrafe|zeusgrafe@usb.ve|Grafe Perez|Zeus Zadquiel|Departamento de Ciencias Economicas administrativo||grafe01@gmail.com|profesor
+26911342|juancguerrero|juancguerrero@usb.ve|Guerrero Villarreal|Juan Carlos|Departamento de Fisica|||profesor
+10501983|tibisayrangel|tibisayrangel@usb.ve|Rangel Rondon|Tibisay Thamari|Departamento de Biologia|04242163975|tibisay.rangel17@gmail.com|profesor
+12426160|frankmontero|frankmontero@usb.ve|Montero Diaz|Frank Reinaldo|Departamento de Fisica||frank.montero@incart.gob.do|profesor
+10090778|leningonzalez|leningonzalez@usb.ve|Gonzalez|Lenin|Departamento de Tecnología Industrial|04125834445||profesor
+24334872|axelgutierrez|axelgutierrez@usb.ve|Gutierrez Salazar|Axel|Departamento de Tecnologia de Servicios|04242925004||profesor
+9996140|rafaelcastillo| rafaelcastillo@usb.ve|Castillo Calderon|Rafael Antonio|Departamento de Tecnologia de Servicios|04141020493||profesor
+11043980|dulcearocha|dulcearocha@usb.ve|Arocha Perez|Dulce Nathalie|División Ciencias Biologicas|0412210426|dulcearocha@gmail.com |profesor
+16726881|mariatleon|mariatleon@usb.ve|Leon Colmenares|Maria Teresa Del Valle|Departamento de Tecnologia de Servicios|04241340837||profesor
+20007007|felixodreman|felixodreman@usb.ve|Odreman Martinez|Felix Jesus|Departamento de Tecnología de Servicios|04129649312||profesor
+2716.348|secre-coordtmma|secre-coordtmma@usb.ve|Secretaria de Tecnologia Mecanica  Aeronautico| Ingenieria de Mantenimiento|Decanato de estudios profesionales|||administrativas
+
+

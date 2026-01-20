@@ -1,0 +1,44 @@
+{
+  "name": "YouTube Player App",
+  "short_name": "YT Player",
+  "description": "Reproductor de videos de YouTube para Android",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#FF0000",
+  "background_color": "#0f0f0f",
+  "scope": "/",
+  "lang": "es-ES",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "multimedia"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Abrir reproductor",
+      "short_name": "Reproductor",
+      "description": "Abrir el reproductor de YouTube",
+      "url": "/index.html",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
